@@ -1,2 +1,2 @@
 # wiggle-sort
-fast implementation of wiggle sort problem and some tests
+fast implementations of wiggle sort II problem and some tests
